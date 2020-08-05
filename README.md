@@ -1,6 +1,6 @@
 # TPTorch
 
-Student's-T process implemented with GPyTorch 
+Student's-T process implemented with GPyTorch
 
 ## Examples
 
@@ -25,3 +25,7 @@ under construction
   ```sh
   poetry install
   ```
+
+## Reference
+
+- [Student-t Processes as Alternatives to Gaussian Processes](http://proceedings.mlr.press/v33/shah14.html)

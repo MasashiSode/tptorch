@@ -1,12 +1,15 @@
 [tool.poetry]
-name = "tp_torch"
+name = "tptorch"
 version = "0.1.0"
 description = "Student's-T process implemented with GPyTorch"
 authors = ["Masashi Sode <masashi.sode@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.6.5"
+gpytorch = "^1.1.1"
+pyro-ppl = "^1.4.0"
+scipy = "^1.5.2"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"

@@ -10,10 +10,10 @@ under construction
 
 - Python >= 3.6.5
 
-install TPTorch using pip
-
   ```sh
-  pip install tptorch
+  git clone https://github.com/MasashiSode/tptorch
+  cd tptoch
+  pip install .
   ```
 
 ## Development

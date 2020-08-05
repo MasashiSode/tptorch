@@ -25,3 +25,4 @@ debug.py
 *.csv
 *.png
 *.json
+dist

@@ -1,0 +1,27 @@
+# General
+nohup.out
+.DS_Store
+.vscode/
+.venv
+
+# Python-related
+.ipynb_checkpoints/
+__pycache__/
+
+# Project
+results/
+logs/
+batch_train.sh
+batch_train.sh.o*
+qsub/
+legacy/
+*.sh.o*
+logboard*
+.mypy_cache
+input/
+debug.py
+*.pkl
+*.pth
+*.csv
+*.png
+*.json

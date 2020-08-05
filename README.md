@@ -1,8 +1,12 @@
 # TPTorch
 
+Student's-T process implemented with GPyTorch 
+
 ## Examples
 
 under construction
+
+[see also](https://github.com/MasashiSode/tptorch/tree/master/examples)
 
 ## Installation
 

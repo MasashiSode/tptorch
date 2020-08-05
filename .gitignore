@@ -26,3 +26,4 @@ debug.py
 *.png
 *.json
 dist
+*.egg-info
